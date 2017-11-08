@@ -197,7 +197,6 @@ public class TinevraMatrixCal {
             }
 
 
-
         }catch (NullPointerException | ArrayIndexOutOfBoundsException | IOException  | InputMismatchException e2) {
             return  null;
         }
